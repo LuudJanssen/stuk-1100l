@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA;;gFAEgF;AAEhF;;gFAEgF;AAExE,sDAA2C;AAEnD;;gFAEgF;AAKhF;;gFAEgF;;ACjBhF,IAAK;EACD,gBAAgB,ECHA,OAAO",
+"sources": ["../sass/main.scss","../sass/modules/_base.scss","../sass/variables/_colors.scss"],
+"names": [],
+"file": "main.css"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "stuk-1100l",
+  "version": "0.1.0",
+  "dependencies": {
+    "jquery": "latest",
+    "modernizr": "latest",
+    "normalize-css": "latest"
+  }
+}
